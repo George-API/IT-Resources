@@ -2,7 +2,7 @@
 
 Curated IT reference material covering project management, software development, data engineering, and cloud architecture.
 
-> ⚠️ **Disclaimer**: AI-generated content. Always verify with authoritative sources, enterprise guidance, and vendor documentation.
+> ⚠️ **Disclaimer**: Contains AI-generated content. Always verify with authoritative sources, enterprise guidance, and vendor documentation.
 
 ---
 
