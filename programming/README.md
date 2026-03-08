@@ -4,28 +4,40 @@
 
 ---
 
+## Concepts
+
+[concepts/](concepts/) — Software architecture, design patterns, DevOps, Azure DevOps, DSA, OSI
+
+---
+
+## Resources
+
+[resources.md](resources.md) — Standards, security resources, and tools (References + Tools combined).
+
+---
+
 ## Languages
 
-- **[C/C++](c/)** - Systems programming, memory management, performance
-- **[C#](csharp/)** - Enterprise platforms, APIs, Azure services
-- **[Go](go/)** - DevOps, infrastructure automation, cloud-native development
-- **[Java](java/)** - Enterprise platforms, Spring ecosystem
-- **[JavaScript](javascript/)** - Frontend frameworks, web development
-- **[Python](python/)** - Data analysis, ML, web development
-- **[R](r/)** - Statistical analysis, modeling
-- **[Rust](rust/)** - Memory-safe systems, security-critical components
-- **[SQL](sql/)** - Database queries, data manipulation
-- **[TypeScript](typescript/)** - Type-safe JavaScript, web development
+- **[C/C++](languages/c/)** - Systems programming, memory management, performance
+- **[C#](languages/csharp/)** - Enterprise platforms, APIs, Azure services
+- **[Go](languages/go/)** - DevOps, infrastructure automation, cloud-native development
+- **[Java](languages/java/)** - Enterprise platforms, Spring ecosystem
+- **[JavaScript](languages/javascript/)** - Frontend frameworks, web development
+- **[Python](languages/python/)** - Data analysis, ML, web development
+- **[R](languages/r/)** - Statistical analysis, modeling
+- **[Rust](languages/rust/)** - Memory-safe systems, security-critical components
+- **[SQL](languages/sql/)** - Database queries, data manipulation
+- **[TypeScript](languages/typescript/)** - Type-safe JavaScript, web development
 
 ---
 
 ## Utilities
 
-- **[Bicep](bicep/)** - Azure IaC (Bicep DSL)
-- **[Excel](excel/)** - Data analysis, ETL, Power Query
-- **[Git](git/)** - Version control
-- **[Terraform](terraform/)** - Azure IaC (HCL)
-- **[Terminal](terminal/)** - Bash commands
+- **[Bicep](utilities/bicep/)** - Azure IaC (Bicep DSL)
+- **[Excel](utilities/excel/)** - Data analysis, ETL, Power Query
+- **[Git](utilities/git/)** - Version control
+- **[Terraform](utilities/terraform/)** - Azure IaC (HCL)
+- **[Terminal](utilities/terminal/)** - Bash commands
 
 ---
 
@@ -46,5 +58,4 @@
 
 ---
 
-> **Related**: See [Concepts](../concepts/) for architecture and design patterns, [Resources](../resources/) for enterprise tools.
-
+> **Related**: [Terminology](terminology.md) · [Resources](resources.md) · [Index](../terminology.md)
