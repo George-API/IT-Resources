@@ -1,14 +1,14 @@
-# Strategy: Learning, Complexity, and Critical Thinking
+# Strategy
 
-A four-part integrated approach to developing technical understanding, navigating enterprise complexity, and building sound judgment.
+Practical guides for learning efficiently, managing complexity, and thinking clearly in technical environments.
 
 | # | Document | Focus |
 |---|----------|-------|
-| 1 | [Approach](01_approach.md) | How to learn and make decisions using four progressive stages |
-| 2 | [Complexity](02_complexity.md) | How complexity arises at scale and strategies for managing it |
-| 3 | [Critical Thinking](03_critical_thinking.md) | Practical reasoning, mental models, cognitive biases, and communication |
-| 4 | [Integrated](04_integrated.md) | Combined reference bringing all three together |
+| 1 | [Approach](01_approach.md) | Structured way to learn new topics and make better decisions |
+| 2 | [Complexity](02_complexity.md) | How complexity grows at scale and practical strategies to manage it |
+| 3 | [Critical Thinking](03_critical_thinking.md) | Mental models, cognitive biases, trade-off analysis, and decision-making |
+| 4 | [Integrated](04_integrated.md) | Quick reference combining all three |
 
-Start with **01** for the learning foundation, **02** for enterprise context, **03** for practical reasoning, or go straight to **04** for everything in one place.
+Read them in order or jump to **04** for a single consolidated view.
 
 > **Area-specific problem solving**: [Software Engineering](../software_engineering/problem_solving.md) · [Data Management](../data_management/problem_solving.md) · [Project Management](../project_management/problem_solving.md)

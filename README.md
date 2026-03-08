@@ -1,6 +1,6 @@
 # Technical Project Management Resources
 
-IT reference material across three focus areas: **Data management**, **Project management**, **Software engineering**. Designed as a dual-purpose resource: a **structured learning path** for building long-term expertise and a **quick reference** for practical decision-making.
+Practical guides for learning efficiently, managing complexity, and thinking clearly across three focus areas: **Data management**, **Project management**, **Software engineering**. The goal is to optimize the learning pathway that experience builds on, and to serve as a quick reference when navigating the intersection of technology, constraints, and stakeholder needs.
 
 > **Note:** Content is AI-generated. This repo complements but does not replace official documentation, formal training, hands-on experience, or your organization's own standards. Always verify against authoritative sources.
 
@@ -22,7 +22,7 @@ Each area has its own concepts, terminology, and resources (see the area README)
 
 ## Learning Approach
 
-The same four stages support both sides of the dual approach: as a **sequential path** for building long-term expertise, and as a **decision-making lens** for practical, problem-solving. See [full approach](_strategy/01_approach.md) for detailed questions and guidance.
+Four stages that work as both a **learning path** for building expertise and a **decision-making lens** for practical problem-solving. See [full approach](_strategy/01_approach.md) for details.
 
 ```
   Orientation     Foundations     Application      Judgment
@@ -40,5 +40,3 @@ The same four stages support both sides of the dual approach: as a **sequential 
 | **Judgment** | Develop reasoning through ambiguity | What if? What am I assuming? |
 
 Each stage builds on the previous. Skipping stages creates gaps.
-
-> The goal is to optimize the learning pathway that experience builds on, and to serve as a quick reference when navigating the intersection of technology, constraints, and stakeholder needs.
