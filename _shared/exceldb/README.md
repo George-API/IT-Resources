@@ -25,9 +25,9 @@ _shared/exceldb/
 
 ## Quick start
 
-1. **Terminology workbook** — [implementation.md](implementation.md) (start with Iteration 1). Import [data/terminology_reference.csv](data/terminology_reference.csv).
-2. **Reference** — [reference.md](reference.md) for columns, categories, and rules.
-3. **Formulas** — [excel_functions.md](excel_functions.md) for counting and search.
+1. **Terminology workbook** - [implementation.md](implementation.md) (start with Iteration 1). Import [data/terminology_reference.csv](data/terminology_reference.csv).
+2. **Reference** - [reference.md](reference.md) for columns, categories, and rules.
+3. **Formulas** - [excel_functions.md](excel_functions.md) for counting and search.
 
 ---
 

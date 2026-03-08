@@ -1,4 +1,4 @@
-# Core — Data management discipline
+# Core - Data management discipline
 
 Platform-agnostic concepts aligned to DMBOK and practice: governance, operations, DataOps, engineering, database, data stores, security, analytics, analytics engineering.
 

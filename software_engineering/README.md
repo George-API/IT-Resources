@@ -6,13 +6,13 @@
 
 ## Concepts
 
-[concepts/](concepts/) — Software architecture, design patterns, DevOps, Azure DevOps, DSA, OSI
+[concepts/](concepts/) - Software architecture, design patterns, DevOps, Azure DevOps, DSA, OSI
 
 ---
 
 ## Resources
 
-[resources.md](resources.md) — Standards, security resources, and tools (References + Tools combined).
+[resources.md](resources.md) - Standards, security resources, and tools (References + Tools combined).
 
 ---
 

@@ -6,13 +6,13 @@
 
 ## Concepts
 
-[concepts/](concepts/) — Project management, ITPM, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
+[concepts/](concepts/) - Project management, ITPM, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
 
 ---
 
 ## Resources
 
-[resources.md](resources.md) — Standards, certifications, frameworks, and tools (References + Tools combined).
+[resources.md](resources.md) - Standards, certifications, frameworks, and tools (References + Tools combined).
 
 ---
 

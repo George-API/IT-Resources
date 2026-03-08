@@ -1,4 +1,4 @@
-# Platform — Cloud & vendor
+# Platform - Cloud & vendor
 
 Cloud architecture, infrastructure, optimization, and data platforms: Azure, Fabric, Databricks, streaming, Power BI.
 

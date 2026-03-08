@@ -6,7 +6,7 @@
 
 ## Concepts
 
-**[concepts/](concepts/)** — **Core** (governance, operations, DataOps, engineering, database, data stores, security, analytics, analytics engineering) and **platform** (architecture, Azure, Databricks, Fabric, infrastructure, optimization, streaming, Power BI). See [concepts/core/](concepts/core/) and [concepts/platform/](concepts/platform/).
+**[concepts/](concepts/)** - **Core** (governance, operations, DataOps, engineering, database, data stores, security, analytics, analytics engineering) and **platform** (architecture, Azure, Databricks, Fabric, infrastructure, optimization, streaming, Power BI). See [concepts/core/](concepts/core/) and [concepts/platform/](concepts/platform/).
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## Resources & Standards
 
-- **[resources.md](resources.md)** — Standards, certifications, legislation, and tools (References + Tools combined).
+- **[resources.md](resources.md)** - Standards, certifications, legislation, and tools (References + Tools combined).
 - **DMBOK**: [DAMA-DMBOK](https://www.dama.org/cpages/body-of-knowledge) · **DCAM**: [EDM Council](https://edmcouncil.org/page/dcam) · **CDMP**: [cdmp.info](https://www.cdmp.info/)
 
 ---
