@@ -1,8 +1,13 @@
 # Software engineering
 
-**Purpose**: Syntax examples, explanations, and patterns for programming languages and utilities used in IT project management. Intended as a learning and reference resource — not as production-ready code.
+**Purpose**: Syntax examples, explanations, and patterns for programming languages and utilities for learning and reference, not production use. Always verify against official documentation and authoritative sources.
 
-> **Important**: Code examples throughout this pillar demonstrate concepts and patterns; they are not intended for direct use. Always understand the underlying code, validate it against your organizational and team standards, and adapt it to your project's requirements, security posture, and coding conventions before adoption.
+> **Important**:
+>
+> - Examples are simplified for clarity and may not reflect full enterprise complexity
+> - Know what the code does and why before adopting any pattern
+> - Validate against official docs and organizational standards
+> - Adapt to your project's requirements, security posture, and conventions
 
 ---
 
