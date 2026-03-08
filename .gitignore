@@ -1,3 +1,5 @@
 # .lh folder and contents
-.lh/
+*.lh
+.lh
+*.lhignore
 .gitignore

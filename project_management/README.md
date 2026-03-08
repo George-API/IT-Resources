@@ -6,7 +6,7 @@
 
 ## Concepts
 
-[concepts/](concepts/) - Project management, ITPM, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
+[concepts/](concepts/) - [Problem Solving](problem_solving.md), project management, ITPM, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
 
 ---
 

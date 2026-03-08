@@ -6,7 +6,7 @@
 
 ## Concepts
 
-**[concepts/](concepts/)** - **Core** (governance, operations, DataOps, engineering, database, data stores, security, analytics, analytics engineering) and **platform** (architecture, Azure, Databricks, Fabric, infrastructure, optimization, streaming, Power BI). See [concepts/core/](concepts/core/) and [concepts/platform/](concepts/platform/).
+**[concepts/](concepts/)** - [Problem Solving](problem_solving.md), **Core** (governance, operations, DataOps, engineering, database, data stores, security, analytics, analytics engineering) and **platform** (architecture, Azure, Databricks, Fabric, infrastructure, optimization, streaming, Power BI). See [concepts/core/](concepts/core/) and [concepts/platform/](concepts/platform/).
 
 ---
 
@@ -39,6 +39,7 @@
 
 | Need | Primary doc |
 |------|-------------|
+| Reasoning, trade-offs, debugging, mental models | [Problem Solving](problem_solving.md) |
 | Who owns data, policies, catalog, lineage | [Data Governance](concepts/core/governance.md) |
 | DataOps methodology, culture, automation, frameworks | [DataOps](concepts/core/dataops.md) |
 | Quality, integrity, lifecycle, reliability, SRE | [Data Operations](concepts/core/operations.md) |
