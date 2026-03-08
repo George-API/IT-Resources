@@ -13,6 +13,6 @@ IT reference material in three pillars: **Data management**, **Project managemen
 | [data_management/](data_management/) | Data concepts, cloud (Fabric, Databricks, ADF), governance, engineering |
 | [project_management/](project_management/) | Project management, methodologies, product management, SDLC, reporting |
 | [software_engineering/](software_engineering/) | Software concepts, languages, utilities (Bicep, Git, Terraform) |
-| [_shared/](_shared/) | Cross-pillar: [Trends](_shared/research/2026_research.md), [Trends Analysis](_shared/research/2026_research_analysis.md), [Excel KB](_shared/exceldb/README.md) |
+| [_shared/](_shared/) | Cross-pillar: [Trends](_shared/research/2026_research.md), [Trends Analysis](_shared/research/2026_research_analysis.md), [Excel IT Knowlege Database ](_shared/exceldb/README.md) |
 
 Each pillar has its own concepts, terminology, and resources (see the pillar README).
