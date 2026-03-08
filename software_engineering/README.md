@@ -6,7 +6,7 @@
 
 ## Concepts
 
-[concepts/](concepts/) - Software architecture, design patterns, DevOps, Azure DevOps, DSA, OSI
+[concepts/](concepts/) - Software architecture, design patterns, DevOps, DevSecOps, Azure DevOps, DSA, OSI
 
 ---
 
