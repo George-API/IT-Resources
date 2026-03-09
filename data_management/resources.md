@@ -6,21 +6,21 @@
 
 ## Part 1 — Standards & References
 
-### Legislation
+### Legislation & Privacy
 
 | Law | Scope | Link |
 |-----|-------|------|
-| **FIPPA** | Ontario provincial government | [ontario.ca](https://www.ontario.ca/laws/statute/90f31) |
-| **MFIPPA** | Ontario municipal government | [ontario.ca](https://www.ontario.ca/laws/statute/90m56) |
-| **PHIPA** | Ontario health information | [ontario.ca](https://www.ontario.ca/laws/statute/04p03) |
-| **AODA** | Ontario accessibility | [ontario.ca](https://www.ontario.ca/laws/statute/05a11) |
-| **PIPEDA** | Federal private sector privacy | [priv.gc.ca](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) |
-| **Privacy Act** | Federal government privacy | [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca/eng/acts/p-21/) |
+| **FIPPA** | Provincial freedom of information and privacy | [ontario.ca](https://www.ontario.ca/laws/statute/90f31) |
+| **MFIPPA** | Municipal freedom of information and privacy | [ontario.ca](https://www.ontario.ca/laws/statute/90m56) |
+| **PHIPA** | Health information protection | [ontario.ca](https://www.ontario.ca/laws/statute/04p03) |
+| **AODA** | Accessibility standards | [ontario.ca](https://www.ontario.ca/laws/statute/05a11) |
+| **PIPEDA** | Private sector privacy | [priv.gc.ca](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) |
+| **Privacy Act** | Federal privacy | [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca/eng/acts/p-21/) |
 | **GDPR** | EU resident data | [gdpr.eu](https://gdpr.eu/) |
 | **HIPAA** | US patient data | [hhs.gov](https://www.hhs.gov/hipaa/index.html) |
-| **SOX** | US-listed companies | — |
+| **SOX** | US-listed companies | - |
 
-**Commissioners**: [Ontario IPC](https://www.ipc.on.ca/) · [OPC](https://www.priv.gc.ca/) · [TBS PIA](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/privacy/privacy-impact-assessment.html)
+**Privacy commissioners**: [IPC](https://www.ipc.on.ca/) · [OPC](https://www.priv.gc.ca/) · [PIA guidance](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/privacy/privacy-impact-assessment.html)
 
 ### Standards
 

@@ -93,4 +93,4 @@ This repo complements but does not replace official documentation, formal traini
 
 ---
 
-> **Related**: [Data Management](../data_management/) · [Project Management](../project_management/) · [Software Engineering](../software_engineering/) · [Critical Thinking](03_critical_thinking.md)
+> **Related**: [Data Management](../data_management/) · [Project Management](../project_management/) · [Software Engineering](../software_engineering/) · [Critical Thinking](03_shared_critical_thinking.md)

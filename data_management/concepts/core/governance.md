@@ -261,11 +261,11 @@ A publishable dataset must have:
 
 ## 10. Compliance & Standards
 
-### Ontario-Specific Requirements
+### Jurisdictional Requirements
 
-- **GO-ITS standards**: Adhere to Government of Ontario IT Standards for data management, security, and interoperability
-- **Open Data Directive**: Government data open by default unless exempted (privacy, security, confidentiality, commercial sensitivity)
-- **Anti-Racism Act**: Race-based data collection requirements for public sector organizations (identify and monitor racial disparities)
+- **IT standards**: Adhere to applicable organizational or jurisdictional IT standards for data management, security, and interoperability
+- **Open data directives**: Data open by default unless exempted (privacy, security, confidentiality, commercial sensitivity)
+- **Equity data requirements**: Demographic data collection requirements to identify and monitor disparities where mandated
 
 ### Data Standards
 

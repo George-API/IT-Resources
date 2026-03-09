@@ -196,7 +196,7 @@
 ### Retention Policies
 
 - **Policy-driven**: Define retention policies based on data classification
-- **Regulatory retention**: Retain data per regulatory requirements (FIPPA, PHIPA)
+- **Regulatory retention**: Retain data per applicable privacy and records management legislation
 - **Business retention**: Retain data per business needs
 - **Retention schedules**: Approved retention schedules for records
 
@@ -214,11 +214,11 @@
 - **Deletion tracking**: Track data deletions for operational purposes (security audit trails in [Data Security](security.md))
 - **Exception handling**: Process for legal holds and exceptions
 
-### Ontario-Specific Requirements
+### Regulatory Requirements
 
-- **FIPPA retention**: Retain personal information only as long as necessary
+- **Privacy retention**: Retain personal information only as long as necessary under applicable legislation
 - **Disposal requirements**: Securely dispose of personal information when no longer needed
-- **Record retention schedules**: Follow approved retention schedules for government records
+- **Record retention schedules**: Follow approved retention schedules per organizational and regulatory requirements
 
 ---
 

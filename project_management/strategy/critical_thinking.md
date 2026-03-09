@@ -2,7 +2,7 @@
 
 **Scope**: Practical reasoning, decision-making frameworks, trade-off analysis, and cognitive discipline for project and technical project management.
 
-**Purpose**: Use this when navigating ambiguous requirements, making project decisions under pressure, managing competing priorities, or recovering troubled projects. These are meta-skills that underpin all other PM practices. For general PM fundamentals, see [Project Management](concepts/project_management.md). For IT-specific patterns, see [IT Project Management](concepts/itpm.md). For methodology frameworks, see [Methodologies](concepts/methodologies.md).
+**Purpose**: Use this when navigating ambiguous requirements, making project decisions under pressure, managing competing priorities, or recovering troubled projects. These are meta-skills that underpin all other PM practices. For general PM fundamentals, see [Project Management](../concepts/project_management.md). For IT-specific patterns, see [IT Project Management](../concepts/itpm.md). For methodology frameworks, see [Methodologies](../concepts/methodologies.md).
 
 ## Table of Contents
 
@@ -317,5 +317,5 @@
 
 ---
 
-> **Note**: For general PM fundamentals, see [Project Management](concepts/project_management.md). For IT-specific patterns, see [IT Project Management](concepts/itpm.md). For methodology frameworks, see [Methodologies](concepts/methodologies.md). For stakeholder engagement, see [Stakeholders](concepts/stakeholders.md).
+> **Note**: For general PM fundamentals, see [Project Management](../concepts/project_management.md). For IT-specific patterns, see [IT Project Management](../concepts/itpm.md). For methodology frameworks, see [Methodologies](../concepts/methodologies.md). For stakeholder engagement, see [Stakeholders](../concepts/stakeholders.md).
 

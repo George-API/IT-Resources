@@ -227,13 +227,13 @@
 
 ## 8. Compliance & Regulatory Requirements
 
-### Ontario-Specific Requirements
+### Jurisdictional Requirements
 
-- **FIPPA (Freedom of Information and Protection of Privacy Act)**: Governs collection, use, and disclosure of personal information by public institutions
-- **PHIPA (Personal Health Information Protection Act)**: Applies to personal health information (health information custodians)
-- **GO-ITS (Government of Ontario IT Standards)**: IT security standards for public sector systems
-- **Open Data Directive**: Government data open by default unless exempted
-- **Anti-Racism Act**: Race-based data collection requirements
+- **Freedom of information legislation**: Governs collection, use, and disclosure of personal information by institutions
+- **Health information legislation**: Applies to personal health information (health information custodians)
+- **IT security standards**: Applicable organizational or jurisdictional IT security standards
+- **Open data directives**: Data open by default unless exempted (privacy, security, confidentiality)
+- **Equity data requirements**: Demographic data collection requirements where mandated
 
 ### General Compliance Frameworks
 

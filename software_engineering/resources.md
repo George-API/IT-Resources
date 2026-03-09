@@ -45,7 +45,7 @@
 | **PCI-DSS** | Payment card security | [pcisecuritystandards.org](https://www.pcisecuritystandards.org/) |
 | **CSA STAR** | Cloud security | [cloudsecurityalliance.org](https://cloudsecurityalliance.org/star/) |
 | **CCCS** | Canadian Cyber Security Centre | [cyber.gc.ca](https://cyber.gc.ca/) |
-| **ITSG-33** | Government IT Security | [cyber.gc.ca](https://cyber.gc.ca/en/guidance/it-security-risk-management-lifecycle-approach-itsg-33) |
+| **ITSG-33** | IT Security Risk Management | [cyber.gc.ca](https://cyber.gc.ca/en/guidance/it-security-risk-management-lifecycle-approach-itsg-33) |
 
 ### Research & Reports
 

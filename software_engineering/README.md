@@ -13,9 +13,9 @@
 
 ## Concepts
 
-[concepts/](concepts/) - Software architecture, design patterns, problem solving, DevOps, DevSecOps, Azure DevOps, DSA, OSI
+[concepts/](concepts/) - Software architecture, design patterns, DevOps, DevSecOps, cybersecurity, Azure DevOps, DSA, OSI
 
-[Critical Thinking](critical_thinking.md) · [Systems Thinking](systems_thinking.md)
+[Critical Thinking](strategy/critical_thinking.md) · [Systems Thinking](strategy/systems_thinking.md)
 
 ---
 
@@ -25,10 +25,14 @@
 
 ---
 
-## Languages
+## Languages & Utilities
 
-- **[C/C++](languages/c/)** - Systems programming, memory management, performance
+- **[Bicep](languages/bicep/)** - Azure IaC (Bicep DSL)
+- **[C](languages/c/)** - Embedded systems, OS-level components, firmware
+- **[C++](languages/cpp/)** - Performance-critical engines, real-time systems
 - **[C#](languages/csharp/)** - Enterprise platforms, APIs, Azure services
+- **[Excel](languages/excel/)** - Data analysis, ETL, Power Query
+- **[Git](languages/git/)** - Version control
 - **[Go](languages/go/)** - DevOps, infrastructure automation, cloud-native development
 - **[Java](languages/java/)** - Enterprise platforms, Spring ecosystem
 - **[JavaScript](languages/javascript/)** - Frontend frameworks, web development
@@ -36,17 +40,9 @@
 - **[R](languages/r/)** - Statistical analysis, modeling
 - **[Rust](languages/rust/)** - Memory-safe systems, security-critical components
 - **[SQL](languages/sql/)** - Database queries, data manipulation
+- **[Terminal](languages/terminal/)** - Bash commands
+- **[Terraform](languages/terraform/)** - Azure IaC (HCL)
 - **[TypeScript](languages/typescript/)** - Type-safe JavaScript, web development
-
----
-
-## Utilities
-
-- **[Bicep](utilities/bicep/)** - Azure IaC (Bicep DSL)
-- **[Excel](utilities/excel/)** - Data analysis, ETL, Power Query
-- **[Git](utilities/git/)** - Version control
-- **[Terraform](utilities/terraform/)** - Azure IaC (HCL)
-- **[Terminal](utilities/terminal/)** - Bash commands
 
 ---
 

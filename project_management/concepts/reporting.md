@@ -1,8 +1,8 @@
 # Enterprise Reporting
 
-**Scope**: Reporting practices, Power BI dashboards, and best practices for enterprise Ontario public sector projects.
+**Scope**: Reporting practices, Power BI dashboards, and best practices for enterprise projects in regulated environments.
 
-**Purpose**: Use this for creating effective reports and dashboards for Ontario public sector stakeholders. For general PM concepts, see [Project Management](project_management.md). For stakeholder engagement, see [Stakeholder Engagement](stakeholders.md).
+**Purpose**: Use this for creating effective reports and dashboards for enterprise stakeholders. For general PM concepts, see [Project Management](project_management.md). For stakeholder engagement, see [Stakeholder Engagement](stakeholders.md).
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 
 ### Executive Reports
 
-- **Audience**: Deputy ministers, CAOs, senior executives, steering committees
+- **Audience**: Senior executives, department heads, steering committees
 - **Content**: High-level status, key milestones, budget summary, risks, decisions needed
 - **Format**: Executive dashboard, one-page summary, presentation slides
 - **Focus**: Strategic outcomes, business value, resource needs, escalation items
@@ -31,7 +31,7 @@
 
 ### Financial Reports
 
-- **Audience**: Finance teams, budget approvers, Treasury Board/Management Board of Cabinet
+- **Audience**: Finance teams, budget approvers, executive committee
 - **Content**: Budget vs. actual, forecast (EAC, ETC), variance analysis, funding status
 - **Format**: Financial dashboard, budget reports, variance reports
 - **Focus**: Cost control, budget adherence, forecast accuracy, funding requirements
@@ -39,7 +39,7 @@
 ### Compliance & Governance Reports
 
 - **Audience**: Audit committees, oversight bodies (Auditor General, Information and Privacy Commissioner, Ombudsman), compliance teams
-- **Content**: Compliance status, audit findings, governance metrics, risk assessments, MFIPPA/FIPPA compliance, PHIPA privacy compliance
+- **Content**: Compliance status, audit findings, governance metrics, risk assessments, privacy compliance
 - **Format**: Compliance dashboard, audit reports, governance summaries
 - **Focus**: Regulatory compliance, audit readiness, risk management, governance adherence, transparency, accountability
 
@@ -77,7 +77,7 @@
 **Compliance Dashboards**
 - Compliance status by requirement, audit findings, risk ratings
 - Governance metrics, approval status, documentation completeness
-- Regulatory requirement tracking (MFIPPA/FIPPA, AODA, PHIPA), audit trail summary
+- Regulatory requirement tracking (privacy, accessibility, health information), audit trail summary
 - Filterable by compliance area, risk category
 
 ### Power BI Best Practices
@@ -154,8 +154,8 @@
 
 **Format**
 - Consistent templates, branding, formatting (standardize across projects)
-- Use Ontario public sector visual standards where applicable
-- Ensure accessibility (AODA compliance, WCAG 2.0 Level AA, screen reader friendly, alternative formats)
+- Use organizational visual standards where applicable
+- Ensure accessibility (WCAG 2.1 AA, screen reader friendly, alternative formats)
 - Provide bilingual reports where required (French Language Services Act, designated areas)
 - Provide both digital and print-friendly versions
 
@@ -164,7 +164,7 @@
 - Schedule regular distribution (weekly, monthly, align with budget cycles)
 - Archive reports for historical reference, maintain audit trail
 - Control access based on sensitivity, audience
-- Consider MFIPPA/FIPPA requirements for public records requests
+- Consider freedom of information requirements for records requests
 
 ---
 
@@ -180,7 +180,7 @@
 ### Monthly Updates
 
 - **Executive Reports**: Monthly for steering committees, council, cabinet; quarterly for senior executives
-- **Financial Reports**: Monthly for budget tracking (align with provincial/municipal budget cycles), quarterly for forecasts
+- **Financial Reports**: Monthly for budget tracking (align with organizational budget cycles), quarterly for forecasts
 - **Compliance Reports**: Monthly for active compliance tracking, quarterly for assessments
 - **Governance Reports**: Monthly for governance metrics, quarterly for governance reviews, audit committee reporting
 

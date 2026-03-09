@@ -300,5 +300,5 @@ Additional resources needed for IT projects beyond core PM resources:
 
 ---
 
-> **Note**: For methodology frameworks, see [Project Management Methodologies](methodologies.md). For general PM concepts, see [Project Management](project_management.md). For IT-specific patterns, see [IT Project Management](itpm.md). For standards and research resources, see [Resources](../../resources.md) and [Trends](../../_shared/research/2026_research.md).
+> **Note**: For methodology frameworks, see [Project Management Methodologies](methodologies.md). For general PM concepts, see [Project Management](project_management.md). For IT-specific patterns, see [IT Project Management](itpm.md). For standards and research resources, see [Resources](../../resources.md) and [Trends](../../_resources/research/2026_research.md).
 

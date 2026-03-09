@@ -14,11 +14,11 @@ Data management is a single system with one lifecycle. Every concept—governanc
 
 | Phase | What happens | Key docs |
 |-------|-------------|----------|
-| **Ingest** | Capture from source systems (batch, streaming, CDC) | [Engineering](concepts/core/engineering.md) |
-| **Store** | Land, organize, retain (lake, warehouse, database) | [Data Stores](concepts/core/data_stores.md), [Database](concepts/core/database.md) |
-| **Transform** | Clean, model, enrich (Bronze → Silver → Gold) | [Engineering](concepts/core/engineering.md), [Analytics Eng](concepts/core/analytics_eng.md) |
-| **Serve** | Deliver to consumers (reports, APIs, ML features) | [Analytics](concepts/core/analytics.md), [Power BI](concepts/platform/powerbi.md) |
-| **Govern** | Own, protect, measure, enforce, retire | [Governance](concepts/core/governance.md), [Security](concepts/core/security.md), [Operations](concepts/core/operations.md) |
+| **Ingest** | Capture from source systems (batch, streaming, CDC) | [Engineering](../concepts/core/engineering.md) |
+| **Store** | Land, organize, retain (lake, warehouse, database) | [Data Stores](../concepts/core/data_stores.md), [Database](../concepts/core/database.md) |
+| **Transform** | Clean, model, enrich (Bronze → Silver → Gold) | [Engineering](../concepts/core/engineering.md), [Analytics Eng](../concepts/core/analytics_eng.md) |
+| **Serve** | Deliver to consumers (reports, APIs, ML features) | [Analytics](../concepts/core/analytics.md), [Power BI](../concepts/platform/powerbi.md) |
+| **Govern** | Own, protect, measure, enforce, retire | [Governance](../concepts/core/governance.md), [Security](../concepts/core/security.md), [Operations](../concepts/core/operations.md) |
 
 Govern is not a separate phase—it runs across all others. Quality gates at each boundary. Security controls at every layer. Lineage traced end-to-end. If governance only happens at the end, it's an audit, not governance.
 
@@ -310,14 +310,14 @@ For detailed coverage of each topic, see the concept docs:
 | Topic | Doc |
 |-------|-----|
 | Problem solving, mental models, biases | [Critical Thinking](critical_thinking.md) |
-| Governance, catalog, lineage, policy | [Governance](concepts/core/governance.md) |
-| Pipelines, ETL/ELT, orchestration | [Engineering](concepts/core/engineering.md) |
-| Quality, integrity, SRE, observability | [Operations](concepts/core/operations.md) |
-| Database design, indexing, transactions | [Database](concepts/core/database.md) |
-| OLTP/OLAP, NoSQL, store selection | [Data Stores](concepts/core/data_stores.md) |
-| Security, privacy, compliance | [Security](concepts/core/security.md) |
-| Analytics, statistics, BI | [Analytics](concepts/core/analytics.md) |
-| Semantic layer, data products, dbt | [Analytics Engineering](concepts/core/analytics_eng.md) |
-| Azure, Fabric, Databricks, streaming | [Platform docs](concepts/platform/) |
+| Governance, catalog, lineage, policy | [Governance](../concepts/core/governance.md) |
+| Pipelines, ETL/ELT, orchestration | [Engineering](../concepts/core/engineering.md) |
+| Quality, integrity, SRE, observability | [Operations](../concepts/core/operations.md) |
+| Database design, indexing, transactions | [Database](../concepts/core/database.md) |
+| OLTP/OLAP, NoSQL, store selection | [Data Stores](../concepts/core/data_stores.md) |
+| Security, privacy, compliance | [Security](../concepts/core/security.md) |
+| Analytics, statistics, BI | [Analytics](../concepts/core/analytics.md) |
+| Semantic layer, data products, dbt | [Analytics Engineering](../concepts/core/analytics_eng.md) |
+| Azure, Fabric, Databricks, streaming | [Platform docs](../concepts/platform/) |
 
-> **Strategy docs**: [Approach](../_strategy/01_approach.md) · [Complexity](../_strategy/02_complexity.md) · [Critical Thinking](../_strategy/03_critical_thinking.md) · [Integrated](../_strategy/04_integrated.md)
+> **Strategy docs**: [Approach](../../_strategy/01_shared_approach.md) · [Complexity](../../_strategy/02_shared_complexity.md) · [Critical Thinking](../../_strategy/03_shared_critical_thinking.md) · [Systems Thinking](../../_strategy/04_shared_systems_thinking.md)

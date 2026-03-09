@@ -275,7 +275,7 @@
 - **Process-based**: 7 processes (starting, directing, initiating, controlling, managing, delivering, closing)
 - **Theme-based**: 7 themes (business case, organization, quality, plans, risk, change, progress)
 - **Principle-based**: 7 principles (continued business justification, learn from experience, defined roles, manage by stages, manage by exception, focus on products, tailor to environment)
-- **Enterprise adoption**: common in UK/Europe, government projects, large enterprises
+- **Enterprise adoption**: common in UK/Europe, regulated environments, large enterprises
 - **Governance**: strong governance structure, stage gates, decision points
 
 ### PMBOK Guide (PMI)

@@ -2,7 +2,7 @@
 
 **Scope**: How complexity arises and compounds in enterprise technical systems, processes, and projects, and practical strategies for navigating it effectively. Draws on systems thinking [1], software engineering research [2][3], organizational design [4][5], and delivery performance science [6].
 
-**Purpose**: Use this when working within or designing for large-scale enterprise environments (public or private sector). Supplements [Critical Thinking](03_critical_thinking.md) with a focused lens on complexity as a systemic force. For domain-specific problem solving, see [Software Engineering](../software_engineering/critical_thinking.md), [Data Management](../data_management/critical_thinking.md), or [Project Management](../project_management/critical_thinking.md).
+**Purpose**: Use this when working within or designing for large-scale enterprise environments (public or private sector). Supplements [Critical Thinking](03_shared_critical_thinking.md) with a focused lens on complexity as a systemic force. For domain-specific problem solving, see [Software Engineering](../software_engineering/strategy/critical_thinking.md), [Data Management](../data_management/strategy/critical_thinking.md), or [Project Management](../project_management/strategy/critical_thinking.md).
 
 ## Table of Contents
 
@@ -267,4 +267,4 @@ These four metrics, validated across thousands of organizations [6], are the str
 
 ---
 
-> **Related**: [Critical Thinking](03_critical_thinking.md) · [Learning Approach](01_approach.md) · [Integrated](04_integrated.md) · [Software Engineering](../software_engineering/critical_thinking.md) · [Data Management](../data_management/critical_thinking.md) · [Project Management](../project_management/critical_thinking.md)
+> **Related**: [Critical Thinking](03_shared_critical_thinking.md) · [Learning Approach](01_shared_approach.md) · [Systems Thinking](04_shared_systems_thinking.md) · [Software Engineering](../software_engineering/strategy/critical_thinking.md) · [Data Management](../data_management/strategy/critical_thinking.md) · [Project Management](../project_management/strategy/critical_thinking.md)

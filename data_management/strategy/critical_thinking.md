@@ -2,7 +2,7 @@
 
 **Scope**: Practical reasoning, investigation methodology, trade-off analysis, and cognitive discipline for data work.
 
-**Purpose**: Use this when approaching unfamiliar data problems, evaluating platform or architecture decisions, investigating data quality issues, or making technical data decisions. These are meta-skills that underpin all other data management practices. For pipeline patterns, see [Data Engineering](concepts/core/engineering.md). For quality systems, see [Data Operations](concepts/core/operations.md). For governance, see [Data Governance](concepts/core/governance.md).
+**Purpose**: Use this when approaching unfamiliar data problems, evaluating platform or architecture decisions, investigating data quality issues, or making technical data decisions. These are meta-skills that underpin all other data management practices. For pipeline patterns, see [Data Engineering](../concepts/core/engineering.md). For quality systems, see [Data Operations](../concepts/core/operations.md). For governance, see [Data Governance](../concepts/core/governance.md).
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@
 
 ### Risks of Unvetted Data in Enterprise Environments
 
-- **Regulatory exposure**: Data containing PII, financial records, or health information must meet regulatory requirements (FIPPA, PHIPA, GDPR, SOC 2) - ingesting it without classification and controls creates compliance risk
+- **Regulatory exposure**: Data containing PII, financial records, or health information must meet regulatory requirements (privacy legislation, GDPR, SOC 2) - ingesting it without classification and controls creates compliance risk
 - **Lineage gaps**: Data that cannot be traced back to its source cannot be audited, corrected, or trusted - regulators and auditors require demonstrable lineage
 - **Licensing and data sharing**: Third-party data sources carry usage restrictions, redistribution limits, and contractual obligations - using them without review can create legal liability
 - **Cross-border data movement**: Moving data between regions or cloud tenants may violate data residency requirements - what works in dev may be illegal in production
@@ -328,4 +328,4 @@ Most organizations need batch for 80% of their workloads. Start there unless a r
 
 ---
 
-> **Note**: For pipeline design patterns, see [Data Engineering](concepts/core/engineering.md). For quality and reliability practices, see [Data Operations](concepts/core/operations.md). For governance and policy, see [Data Governance](concepts/core/governance.md). For analytics methodology, see [Analytics](concepts/core/analytics.md).
+> **Note**: For pipeline design patterns, see [Data Engineering](../concepts/core/engineering.md). For quality and reliability practices, see [Data Operations](../concepts/core/operations.md). For governance and policy, see [Data Governance](../concepts/core/governance.md). For analytics methodology, see [Analytics](../concepts/core/analytics.md).

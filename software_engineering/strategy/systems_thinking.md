@@ -15,11 +15,11 @@ Software is a single system: requirements become code, code becomes deployable a
 | Phase | What happens | Key docs |
 |-------|-------------|----------|
 | **Understand** | Define the problem, identify constraints, trace data flow, know failure modes | [Critical Thinking](critical_thinking.md) |
-| **Model** | Architecture style, bounded contexts, domain model, API contracts, threat model | [Architecture](concepts/architecture.md), [Design](concepts/design.md) |
-| **Implement** | Write code, apply patterns, manage dependencies, review | [Design](concepts/design.md), [Languages](languages/) |
-| **Verify** | Test pyramid, security scans, quality gates, contract tests | [Design](concepts/design.md), [DevSecOps](concepts/devsecops.md) |
-| **Ship** | CI/CD pipeline, IaC, deployment strategy, release | [DevOps](concepts/devops.md), [Azure DevOps](concepts/azure_devops.md) |
-| **Run** | Observe, respond, measure SLOs, postmortem, simplify | [Architecture](concepts/architecture.md), [DevOps](concepts/devops.md) |
+| **Model** | Architecture style, bounded contexts, domain model, API contracts, threat model | [Architecture](../concepts/architecture.md), [Design](../concepts/design.md) |
+| **Implement** | Write code, apply patterns, manage dependencies, review | [Design](../concepts/design.md), [Languages](../languages/) |
+| **Verify** | Test pyramid, security scans, quality gates, contract tests | [Design](../concepts/design.md), [DevSecOps](../concepts/devsecops.md) |
+| **Ship** | CI/CD pipeline, IaC, deployment strategy, release | [DevOps](../concepts/devops.md), [Azure DevOps](../concepts/azure_devops.md) |
+| **Run** | Observe, respond, measure SLOs, postmortem, simplify | [Architecture](../concepts/architecture.md), [DevOps](../concepts/devops.md) |
 
 Security is not a phase. It is a dimension that runs through every phase: threat modeling at Model, secure coding at Implement, SAST/SCA/DAST at Verify, secrets management at Ship, observability at Run. If security only appears as a gate before release, it catches problems at maximum cost.
 
@@ -392,14 +392,14 @@ The same idea manifests differently at each level of the system.
 | Topic | Doc |
 |-------|-----|
 | Problem solving, debugging, mental models, biases | [Critical Thinking](critical_thinking.md) |
-| Architectural styles, DDD, microservices, distributed systems | [Architecture](concepts/architecture.md) |
-| SOLID, design patterns, testing, code review | [Design](concepts/design.md) |
-| CI/CD, IaC, deployment strategies, monitoring | [DevOps](concepts/devops.md) |
-| STRIDE, OWASP, supply chain, SAST/SCA/DAST | [DevSecOps](concepts/devsecops.md) |
-| Azure DevOps platform specifics | [Azure DevOps](concepts/azure_devops.md) |
-| Data structures, algorithms, Big O | [DSA](concepts/dsa.md) |
-| OSI model as troubleshooting lens | [OSI](concepts/osi.md) |
-| Language references | [Languages](languages/) |
-| Bicep, Terraform, Git, terminal | [Utilities](utilities/) |
+| Architectural styles, DDD, microservices, distributed systems | [Architecture](../concepts/architecture.md) |
+| SOLID, design patterns, testing, code review | [Design](../concepts/design.md) |
+| CI/CD, IaC, deployment strategies, monitoring | [DevOps](../concepts/devops.md) |
+| STRIDE, OWASP, supply chain, SAST/SCA/DAST | [DevSecOps](../concepts/devsecops.md) |
+| Azure DevOps platform specifics | [Azure DevOps](../concepts/azure_devops.md) |
+| Data structures, algorithms, Big O | [DSA](../concepts/dsa.md) |
+| OSI model as troubleshooting lens | [OSI](../concepts/osi.md) |
+| Language references | [Languages](../languages/) |
+| Bicep, Terraform, Git, terminal | [Languages](../languages/) |
 
-> **Strategy docs**: [Approach](../_strategy/01_approach.md) · [Complexity](../_strategy/02_complexity.md) · [Critical Thinking](../_strategy/03_critical_thinking.md) · [Integrated](../_strategy/04_integrated.md)
+> **Strategy docs**: [Approach](../../_strategy/01_shared_approach.md) · [Complexity](../../_strategy/02_shared_complexity.md) · [Critical Thinking](../../_strategy/03_shared_critical_thinking.md) · [Systems Thinking](../../_strategy/04_shared_systems_thinking.md)

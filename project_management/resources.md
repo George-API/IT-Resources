@@ -6,18 +6,18 @@
 
 ## Part 1 — Standards & References
 
-### Legislation (Ontario/Canada)
+### Legislation & Privacy
 
 | Law | Scope | Link |
 |-----|-------|------|
-| **FIPPA** | Ontario provincial government | [ontario.ca](https://www.ontario.ca/laws/statute/90f31) |
-| **MFIPPA** | Ontario municipal government | [ontario.ca](https://www.ontario.ca/laws/statute/90m56) |
-| **PHIPA** | Ontario health information | [ontario.ca](https://www.ontario.ca/laws/statute/04p03) |
-| **AODA** | Ontario accessibility | [ontario.ca](https://www.ontario.ca/laws/statute/05a11) |
-| **PIPEDA** | Federal private sector privacy | [priv.gc.ca](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) |
-| **Privacy Act** | Federal government privacy | [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca/eng/acts/p-21/) |
+| **FIPPA** | Provincial freedom of information and privacy | [ontario.ca](https://www.ontario.ca/laws/statute/90f31) |
+| **MFIPPA** | Municipal freedom of information and privacy | [ontario.ca](https://www.ontario.ca/laws/statute/90m56) |
+| **PHIPA** | Health information protection | [ontario.ca](https://www.ontario.ca/laws/statute/04p03) |
+| **AODA** | Accessibility standards | [ontario.ca](https://www.ontario.ca/laws/statute/05a11) |
+| **PIPEDA** | Private sector privacy | [priv.gc.ca](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/) |
+| **Privacy Act** | Federal privacy | [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca/eng/acts/p-21/) |
 
-**Commissioners**: [Ontario IPC](https://www.ipc.on.ca/) · [OPC](https://www.priv.gc.ca/)
+**Privacy commissioners**: [IPC](https://www.ipc.on.ca/) · [OPC](https://www.priv.gc.ca/)
 
 ### Standards
 
@@ -50,7 +50,7 @@
 
 **PM Certifications**: PMP · PMI-ACP · CSM/PSM · PRINCE2 Practitioner
 
-**Canadian Public Sector**: [TBS Digital](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) · [GC EA](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html) · [BPS Procurement](https://www.ontario.ca/document/broader-public-sector-procurement-directive)
+**Digital standards**: [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) · [GC EA](https://www.canada.ca/en/government/system/digital-government/policies-standards/enterprise-it-service-common-configurations.html) · [BPS Procurement](https://www.ontario.ca/document/broader-public-sector-procurement-directive)
 
 ### Research & Reports
 

@@ -69,7 +69,7 @@
 - **Authorization**: Define access control model (RBAC, ABAC, policy-based)
 - **Data protection**: Classify data, define encryption requirements (at rest, in transit)
 - **Audit**: Define logging and monitoring requirements
-- **Compliance**: Map regulatory requirements (FIPPA, PHIPA, GDPR, SOC 2) to controls
+- **Compliance**: Map regulatory requirements (applicable privacy legislation, GDPR, SOC 2) to controls
 - **Abuse cases**: Identify misuse scenarios alongside use cases
 
 ### Security Champions

@@ -14,12 +14,12 @@ Project management is the practice of delivering outcomes through people, under 
 
 | Phase | What happens | Key docs |
 |-------|-------------|----------|
-| **Discover** | Understand the real problem, stakeholder landscape, history, constraints, success criteria | [Critical Thinking](critical_thinking.md), [Product Management](concepts/product_management.md) |
-| **Define** | Charter, scope statement, methodology selection, feasibility, team structure | [Project Management](concepts/project_management.md), [Methodologies](concepts/methodologies.md) |
-| **Plan** | WBS, schedule, budget, risk register, communication plan, roadmap | [Roadmap](concepts/roadmap.md), [Project Management](concepts/project_management.md) |
-| **Deliver** | Execute work, manage team, coordinate vendors, communicate status | [ITPM](concepts/itpm.md), [SDLC](concepts/sdlc.md) |
-| **Control** | Track progress, manage changes, manage risks, report status, validate scope | [Reporting](concepts/reporting.md), [Project Management](concepts/project_management.md) |
-| **Adapt** | Lessons learned, retrospectives, process improvement, knowledge transfer | [Critical Thinking](critical_thinking.md), [Methodologies](concepts/methodologies.md) |
+| **Discover** | Understand the real problem, stakeholder landscape, history, constraints, success criteria | [Critical Thinking](critical_thinking.md), [Product Management](../concepts/product_management.md) |
+| **Define** | Charter, scope statement, methodology selection, feasibility, team structure | [Project Management](../concepts/project_management.md), [Methodologies](../concepts/methodologies.md) |
+| **Plan** | WBS, schedule, budget, risk register, communication plan, roadmap | [Roadmap](../concepts/roadmap.md), [Project Management](../concepts/project_management.md) |
+| **Deliver** | Execute work, manage team, coordinate vendors, communicate status | [ITPM](../concepts/itpm.md), [SDLC](../concepts/sdlc.md) |
+| **Control** | Track progress, manage changes, manage risks, report status, validate scope | [Reporting](../concepts/reporting.md), [Project Management](../concepts/project_management.md) |
+| **Adapt** | Lessons learned, retrospectives, process improvement, knowledge transfer | [Critical Thinking](critical_thinking.md), [Methodologies](../concepts/methodologies.md) |
 
 Governance is not a phase—it runs across all others: stakeholder management, change control, compliance, escalation paths, quality gates. If governance only appears as a gate before go-live, it catches problems at maximum cost.
 
@@ -374,14 +374,14 @@ The same concept manifests differently at each lifecycle phase.
 | Topic | Doc |
 |-------|-----|
 | Problem solving, mental models, biases, decision-making | [Critical Thinking](critical_thinking.md) |
-| Project fundamentals, scope, risk, stakeholders, quality, cost, governance | [Project Management](concepts/project_management.md) |
-| IT project types, technical debt, vendor management, DevOps integration | [IT Project Management](concepts/itpm.md) |
-| Agile, Scrum, Kanban, Waterfall, hybrid, scaling frameworks, Lean | [Methodologies](concepts/methodologies.md) |
-| Product strategy, discovery, roadmapping, metrics, prioritization | [Product Management](concepts/product_management.md) |
-| SDLC phases, requirements, testing, deployment, maintenance | [SDLC](concepts/sdlc.md) |
-| Stakeholder identification, engagement, public sector considerations | [Stakeholders](concepts/stakeholders.md) |
-| Roadmap types, development process, stakeholder communication | [Roadmap](concepts/roadmap.md) |
-| Reporting types, Power BI, dashboards, update frequencies | [Reporting](concepts/reporting.md) |
-| PM tools, resources, templates, tool selection | [Tools & Resources](concepts/tools_resources.md) |
+| Project fundamentals, scope, risk, stakeholders, quality, cost, governance | [Project Management](../concepts/project_management.md) |
+| IT project types, technical debt, vendor management, DevOps integration | [IT Project Management](../concepts/itpm.md) |
+| Agile, Scrum, Kanban, Waterfall, hybrid, scaling frameworks, Lean | [Methodologies](../concepts/methodologies.md) |
+| Product strategy, discovery, roadmapping, metrics, prioritization | [Product Management](../concepts/product_management.md) |
+| SDLC phases, requirements, testing, deployment, maintenance | [SDLC](../concepts/sdlc.md) |
+| Stakeholder identification, engagement, regulated environment considerations | [Stakeholders](../concepts/stakeholders.md) |
+| Roadmap types, development process, stakeholder communication | [Roadmap](../concepts/roadmap.md) |
+| Reporting types, Power BI, dashboards, update frequencies | [Reporting](../concepts/reporting.md) |
+| PM tools, resources, templates, tool selection | [Tools & Resources](../concepts/tools_resources.md) |
 
-> **Strategy docs**: [Approach](../_strategy/01_approach.md) · [Complexity](../_strategy/02_complexity.md) · [Critical Thinking](../_strategy/03_critical_thinking.md) · [Integrated](../_strategy/04_integrated.md)
+> **Strategy docs**: [Approach](../../_strategy/01_shared_approach.md) · [Complexity](../../_strategy/02_shared_complexity.md) · [Critical Thinking](../../_strategy/03_shared_critical_thinking.md) · [Systems Thinking](../../_strategy/04_shared_systems_thinking.md)

@@ -1,6 +1,6 @@
 # Integrated Reference
 
-Enterprise technical work is a single continuous cycle. Every concept in this document—learning stages, complexity dynamics, mental models, decision frameworks—is a tool for navigating that cycle. All topics connect through one lifecycle and five repeating patterns. Combines [learning approach](01_approach.md), [complexity at scale](02_complexity.md), and [critical thinking](03_critical_thinking.md) into one systems-oriented reference.
+Enterprise technical work is a single continuous cycle. Every concept in this document - learning stages, complexity dynamics, mental models, decision frameworks - is a tool for navigating that cycle. All topics connect through one lifecycle and five repeating patterns. Combines [learning approach](01_shared_approach.md), [complexity at scale](02_shared_complexity.md), and [critical thinking](03_shared_critical_thinking.md) into one systems-oriented reference.
 
 > Applies across all three focus areas: [Data Management](../data_management/), [Project Management](../project_management/), and [Software Engineering](../software_engineering/).
 
@@ -22,7 +22,7 @@ Enterprise technical work is a single continuous cycle. Every concept in this do
 | **Execute** | Deliver within constraints, manage complexity | Application | Team design, modular boundaries, DORA |
 | **Adapt** | Learn from outcomes, simplify, feedback | Judgment | Failure analysis, measurement, feedback loops |
 
-Every concept below belongs to one or more lifecycle phases. The learning stages (Orientation → Foundations → Application → Judgment) map directly to this cycle. Skipping phases produces the same failures as skipping learning stages—because they are the same thing applied at different timescales [1].
+Every concept below belongs to one or more lifecycle phases. The learning stages (Orientation → Foundations → Application → Judgment) map directly to this cycle. Skipping phases produces the same failures as skipping learning stages, because they are the same thing applied at different timescales [1].
 
 ---
 
@@ -38,7 +38,7 @@ These 12 rules explain 80% of correct decisions in enterprise technical environm
 6. **Reversible decisions should be fast; irreversible ones careful.** Invest analysis proportionally to the cost of being wrong.
 7. **What you don't measure controls you.** Unmeasured process overhead, invisible coupling, and tribal knowledge all compound silently. → *Visibility Pattern*
 8. **Simplification is continuous work.** Without active investment, entropy degrades every system, process, and codebase. → *Accumulation Pattern*
-9. **Feedback loops determine trajectory.** Positive loops amplify; negative loops erode [11]. If you're in a negative loop, working harder makes it worse—break the cycle. → *Feedback Loop Pattern*
+9. **Feedback loops determine trajectory.** Positive loops amplify; negative loops erode [11]. If you're in a negative loop, working harder makes it worse. Break the cycle. → *Feedback Loop Pattern*
 10. **Cognitive biases are defaults, not exceptions.** Anchoring, confirmation bias, sunk cost, and planning fallacy operate on every decision [6]. Build countermeasures into your process.
 11. **Failures are systemic, not individual.** Blame prevents learning. Contributing factors matter more than root cause [14].
 12. **Communicate impact first, process second.** Stakeholders act on conclusions, not methodology.
@@ -111,7 +111,7 @@ Every system has bottlenecks. Constraints shape the solution space more than pre
                     Collectively narrow ──▶ the solution space
 ```
 
-Different constraints yield different correct answers. There is no "best" solution—only the best solution given your constraints. If you change the constraints, the answer changes.
+Different constraints yield different correct answers. There is no "best" solution - only the best solution given your constraints. If you change the constraints, the answer changes.
 
 ### 5. The Visibility Pattern
 
@@ -121,7 +121,7 @@ What you can't see controls you. Most enterprise failures trace back to somethin
 - **Tribal knowledge** → single points of failure. *Countermeasure*: document decisions and rationale, invest in onboarding.
 - **Invisible coupling** → unexpected cascading failures. *Countermeasure*: trace dependencies before changing anything.
 - **Unmeasured overhead** → slow death. *Countermeasure*: track cycle time, measure delivery metrics [5].
-- **Happy-path thinking** → plans that fail on contact with reality. *Countermeasure*: pre-mortem [12]—imagine it failed, then ask what went wrong.
+- **Happy-path thinking** → plans that fail on contact with reality. *Countermeasure*: pre-mortem [12]: imagine it failed, then ask what went wrong.
 
 ---
 
@@ -213,7 +213,7 @@ Every plan rests on assumptions. Unvalidated assumptions are invisible risks →
 
 ### Systematic Investigation
 
-1. **Define "wrong" precisely**: expected state vs actual state—what is the gap?
+1. **Define "wrong" precisely**: expected state vs actual state. What is the gap?
 2. **Gather evidence before theorizing**: check data, logs, timelines, actual outputs
 3. **Form a hypothesis**: based on evidence, predict where the problem is
 4. **Test one variable at a time**: multiple simultaneous changes obscure causality
@@ -244,7 +244,7 @@ Enterprise complexity is not a failure of planning. It is the natural consequenc
 
 The goal is not zero complexity. The goal is to spend capacity on essential complexity, not complexity you created yourself.
 
-**If you see** complexity you can't trace to a real requirement, **the answer is** accidental complexity—remove it.
+**If you see** complexity you can't trace to a real requirement, **the answer is** accidental complexity. Remove it.
 
 ### Three Types and How They Interact
 
@@ -265,7 +265,7 @@ The goal is not zero complexity. The goal is to spend capacity on essential comp
 | **Organizational** | People, teams, structure | Unclear ownership, siloed teams, knowledge concentration |
 | **Process** | Governance, workflows, approvals | Multi-layer approvals, redundant reviews, manual handoffs |
 
-Technical complexity reflects organizational complexity (Conway's Law [7]). Process complexity grows to compensate for organizational complexity. Jackson [2] emphasizes that managing complexity requires understanding these interactions as a whole system—fixing one type while ignoring the others shifts the problem rather than solving it.
+Technical complexity reflects organizational complexity (Conway's Law [7]). Process complexity grows to compensate for organizational complexity. Jackson [2] emphasizes that managing complexity requires understanding these interactions as a whole system. Fixing one type while ignoring the others shifts the problem rather than solving it.
 
 ### Complexity Over Time
 
@@ -290,7 +290,7 @@ Without active investment, all three types degrade → *Accumulation Pattern*.
 
 ### Conway's Law [7] and Organizational Scale
 
-> "Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure." — Melvin Conway, 1968
+> "Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure." - Melvin Conway, 1968
 
 Use it strategically → *Boundary Pattern*: if you want modular systems, organize modular teams. Architecture decisions are organizational decisions.
 
@@ -315,11 +315,11 @@ These are reasoning tools. Each connects to at least one repeating pattern.
 | **Second-order effects** | Every change has consequences beyond its immediate intent. Always ask: "And then what happens?" | Feedback Loop |
 | **Feedback loops** [11] | Positive loops amplify; negative loops erode. Recognize which loop you're in | Feedback Loop |
 | **Opportunity cost** | Every choice to do X is a choice not to do Y. Ask: "What am I not doing by doing this?" | Constraint |
-| **Sunk cost discipline** | Past investment should not drive future decisions. "Would we start this today?" | — |
+| **Sunk cost discipline** | Past investment should not drive future decisions. "Would we start this today?" | - |
 
 ### Cognitive Biases [6]
 
-Biases are not occasional risks—they are default cognitive behaviors. Each one produces a predictable error.
+Biases are not occasional risks. They are default cognitive behaviors. Each one produces a predictable error.
 
 | Bias | Predictable error | Countermeasure |
 |------|-------------------|----------------|
@@ -334,10 +334,10 @@ Biases are not occasional risks—they are default cognitive behaviors. Each one
 
 ### Countermeasure Toolkit
 
-- **Pre-mortem** [12]: Before starting, imagine the effort has failed—what went wrong? Surfaces risks that optimism suppresses.
+- **Pre-mortem** [12]: Before starting, imagine the effort has failed. What went wrong? Surfaces risks that optimism suppresses.
 - **Write your reasoning down**: Articulating a decision in writing exposes weak logic that feels solid in your head.
 - **Require alternatives**: Never commit without evaluating at least one meaningful alternative → *Never Rule 4*.
-- **Reference class thinking** [13]: Compare to similar past efforts—what actually happened? Historical data beats expert opinion.
+- **Reference class thinking** [13]: Compare to similar past efforts. What actually happened? Historical data beats expert opinion.
 
 ---
 
@@ -366,8 +366,8 @@ If you see three or more of these simultaneously, complexity is compounding → 
 
 ### Complicated vs Complex
 
-**If you see** predictable cause and effect, **the answer is** complicated—use analysis and planning.
-**If you see** emergent, unpredictable behavior, **the answer is** complex—use experimentation and adaptation.
+**If you see** predictable cause and effect, **the answer is** complicated. Use analysis and planning.
+**If you see** emergent, unpredictable behavior, **the answer is** complex. Use experimentation and adaptation.
 
 Applying "best practices" to a genuinely complex problem often fails. Match the response to the domain → Cynefin framework below.
 
@@ -377,7 +377,7 @@ Applying "best practices" to a genuinely complex problem often fails. Match the 
 
 **Team design** [4] → *Boundary Pattern + Conway's Law*: Small autonomous teams (5-8) with end-to-end ownership. Align to outcomes or value streams, not technology layers. Minimize cross-team dependencies. Provide shared capabilities as self-service platforms. **Test**: if a team needs three other teams to deliver a change, the boundaries need revisiting.
 
-**Continuous simplification** → *Accumulation Pattern*: Remove before adding. Standardize defaults, allow justified exceptions. Use delivery metrics [5] (deployment frequency, lead time, failure rate, recovery time) to track progress. Treat simplification as ongoing work—schedule it alongside delivery.
+**Continuous simplification** → *Accumulation Pattern*: Remove before adding. Standardize defaults, allow justified exceptions. Use delivery metrics [5] (deployment frequency, lead time, failure rate, recovery time) to track progress. Treat simplification as ongoing work. Schedule it alongside delivery.
 
 **Process simplification** → *Accumulation Pattern*: Audit governance periodically. Automate repetitive decisions. Reduce handoffs. Design for flow, not control. **Test**: does each gate, review, or approval actually reduce risk? If it only adds delay, remove or streamline it. Track cycle time to make overhead visible.
 
@@ -385,7 +385,7 @@ Applying "best practices" to a genuinely complex problem often fails. Match the 
 
 ### Common Traps
 
-**Technical**: Premature abstraction (building flexibility you don't need yet—abstractions have costs, build when you have evidence). Tool proliferation (every new tool costs learning, integration, maintenance, security). Big-bang migrations (incremental transitions fail less). Over-engineering for scale (building for 10x when 2x suffices).
+**Technical**: Premature abstraction (building flexibility you don't need yet; abstractions have costs, build when you have evidence). Tool proliferation (every new tool costs learning, integration, maintenance, security). Big-bang migrations (incremental transitions fail less). Over-engineering for scale (building for 10x when 2x suffices).
 
 **Organizational**: Reorganization as solution (disrupts relationships, resets knowledge). Centralizing everything (bottlenecks). Decentralizing everything (reinvented wheels). Adding process instead of fixing systems → *Accumulation Pattern*.
 
@@ -428,7 +428,7 @@ Sequential filter for any technical decision:
 
 ### Evaluating Trade-offs
 
-- There is no "best" solution—only the best solution given your constraints → *Constraint Pattern*
+- There is no "best" solution - only the best solution given your constraints → *Constraint Pattern*
 - Make trade-offs explicit: document what you're optimizing for and what you're accepting as a cost
 - Reversibility matters → *Principle 6*: invest analysis proportionally to the cost of being wrong
 - Prefer boring, proven approaches: save your complexity budget for actual differentiators
@@ -483,7 +483,7 @@ Sequential filter for any technical decision:
 ### Under Uncertainty
 
 - **Two-way vs one-way doors**: Reversible decisions should be made quickly; irreversible ones deserve careful analysis → *Principle 6*
-- **Set a decision deadline**: Without one, analysis paralysis sets in—decide by a date, even imperfectly
+- **Set a decision deadline**: Without one, analysis paralysis sets in. Decide by a date, even imperfectly
 - **Historical data beats expert opinion** [13]: What actually happened in similar situations is more reliable than any individual estimate
 - **Prototype to reduce uncertainty**: A quick experiment tells you more than extended analysis → *Visibility Pattern*
 - **Tackle the riskiest part first**: If the uncertain component will block everything, find out early
@@ -499,9 +499,9 @@ Sequential filter for any technical decision:
 
 Failure analysis is the primary input to the Adapt phase. Without it, the lifecycle stalls and the *Feedback Loop Pattern* turns negative.
 
-- **Blameless approach** [14]: Focus on systems, processes, and conditions—not individuals. Blame prevents learning → *Principle 11*.
-- **Contributing factors, not root cause**: Complex failures rarely have a single cause—identify the chain of conditions
-- **Timeline reconstruction**: Build a chronological sequence of events—patterns emerge from sequence
+- **Blameless approach** [14]: Focus on systems, processes, and conditions, not individuals. Blame prevents learning → *Principle 11*.
+- **Contributing factors, not root cause**: Complex failures rarely have a single cause. Identify the chain of conditions
+- **Timeline reconstruction**: Build a chronological sequence of events. Patterns emerge from sequence
 - **Distinguish failure types**: Experimental failures (trying something new) require encouragement. Preventable failures (repeating known mistakes) require systemic fixes.
 - **Track recurring patterns**: If the same class of failure keeps happening, the cause is systemic → *Never Rule 7*
 
@@ -587,4 +587,4 @@ Key failure scenarios traced through the lifecycle and across patterns.
 
 ---
 
-> **Detailed versions**: [Learning Approach](01_approach.md) · [Complexity at Scale](02_complexity.md) · [Critical Thinking](03_critical_thinking.md) · [Software Engineering](../software_engineering/critical_thinking.md) · [Data Management](../data_management/critical_thinking.md) · [Project Management](../project_management/critical_thinking.md)
+> **Detailed versions**: [Learning Approach](01_shared_approach.md) · [Complexity at Scale](02_shared_complexity.md) · [Critical Thinking](03_shared_critical_thinking.md) · [Software Engineering](../software_engineering/strategy/critical_thinking.md) · [Data Management](../data_management/strategy/critical_thinking.md) · [Project Management](../project_management/strategy/critical_thinking.md)

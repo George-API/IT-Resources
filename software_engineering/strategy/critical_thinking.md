@@ -2,7 +2,7 @@
 
 **Scope**: Practical reasoning frameworks, debugging methodology, trade-off analysis, and cognitive discipline for engineering work.
 
-**Purpose**: Use this when approaching unfamiliar problems, evaluating solutions, debugging complex issues, or making technical decisions. These are meta-skills that underpin all other engineering practices. For code-level patterns, see [Software Design](concepts/design.md). For system-level decisions, see [Software Architecture](concepts/architecture.md).
+**Purpose**: Use this when approaching unfamiliar problems, evaluating solutions, debugging complex issues, or making technical decisions. These are meta-skills that underpin all other engineering practices. For code-level patterns, see [Software Design](../concepts/design.md). For system-level decisions, see [Software Architecture](../concepts/architecture.md).
 
 ## Table of Contents
 
@@ -56,7 +56,7 @@
 
 - **Security vulnerabilities**: Copied code may contain injection flaws, hardcoded credentials, insecure defaults, or outdated cryptographic practices - in enterprise settings, these become audit findings or breach vectors
 - **Licensing and IP exposure**: Open-source snippets carry license obligations (GPL, LGPL, AGPL) that can conflict with organizational IP policies - using them without review can create legal liability
-- **Compliance violations**: Code that handles PII, financial data, or health information must meet regulatory requirements (FIPPA, PHIPA, GDPR, SOC 2) - tutorial code almost never accounts for these
+- **Compliance violations**: Code that handles PII, financial data, or health information must meet regulatory requirements (privacy legislation, GDPR, SOC 2) - tutorial code almost never accounts for these
 - **Uncontrolled dependencies**: A snippet that pulls in a transitive dependency tree introduces supply chain risk - vulnerable or abandoned packages become your organization's problem
 - **Non-functional gaps**: Example code typically ignores logging, monitoring, error recovery, concurrency, and graceful degradation - the exact concerns that determine whether production systems are reliable
 - **Organizational standards drift**: Teams that adopt code without aligning to internal coding standards, naming conventions, and architectural patterns create inconsistency that compounds maintenance cost over time
@@ -299,4 +299,4 @@
 
 ---
 
-> **Note**: For code-level design patterns and principles, see [Software Design](concepts/design.md). For system-level architectural decisions, see [Software Architecture](concepts/architecture.md). For DevOps and delivery practices, see [DevOps](concepts/devops.md).
+> **Note**: For code-level design patterns and principles, see [Software Design](../concepts/design.md). For system-level architectural decisions, see [Software Architecture](../concepts/architecture.md). For DevOps and delivery practices, see [DevOps](../concepts/devops.md).
