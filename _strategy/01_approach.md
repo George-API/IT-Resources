@@ -4,7 +4,7 @@ A dual-purpose approach to building technical understanding across [Data Managem
 
 ---
 
-## Learning Development
+## Development
 
 Follow sequentially; each stage builds on the previous.
 

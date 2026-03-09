@@ -1,4 +1,4 @@
-# Problem Solving & Critical Thinking in Project Management
+# Critical Thinking in Project Management
 
 **Scope**: Practical reasoning, decision-making frameworks, trade-off analysis, and cognitive discipline for project and technical project management.
 

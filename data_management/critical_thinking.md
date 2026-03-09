@@ -1,4 +1,4 @@
-# Problem Solving & Critical Thinking in Data Management
+# Critical Thinking in Data Management
 
 **Scope**: Practical reasoning, investigation methodology, trade-off analysis, and cognitive discipline for data work.
 

@@ -6,7 +6,7 @@
 
 ## Concepts
 
-[concepts/](concepts/) - [Problem Solving](problem_solving.md), project management, ITPM, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
+[concepts/](concepts/) - [Critical Thinking](critical_thinking.md), [Systems Thinking](systems_thinking.md), project management, ITPM, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
 
 ---
 

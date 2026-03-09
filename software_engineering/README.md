@@ -15,6 +15,8 @@
 
 [concepts/](concepts/) - Software architecture, design patterns, problem solving, DevOps, DevSecOps, Azure DevOps, DSA, OSI
 
+[Critical Thinking](critical_thinking.md) · [Systems Thinking](systems_thinking.md)
+
 ---
 
 ## Resources

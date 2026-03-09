@@ -2,7 +2,7 @@
 
 **Scope**: Practical reasoning, trade-off analysis, mental models, and cognitive discipline applicable across all disciplines. Informed by research in cognitive psychology [1][2], naturalistic decision-making [3], and systems thinking [4].
 
-**Purpose**: A general-purpose reference for approaching unfamiliar problems, making decisions under constraints, and developing sound judgment. For domain-specific depth, see [Software Engineering](../software_engineering/problem_solving.md), [Data Management](../data_management/problem_solving.md), or [Project Management](../project_management/problem_solving.md).
+**Purpose**: A general-purpose reference for approaching unfamiliar problems, making decisions under constraints, and developing sound judgment. For domain-specific depth, see [Software Engineering](../software_engineering/critical_thinking.md), [Data Management](../data_management/critical_thinking.md), or [Project Management](../project_management/critical_thinking.md).
 
 ## Table of Contents
 
@@ -264,4 +264,4 @@
 
 ---
 
-> **Related**: [Learning Approach](01_approach.md) · [Complexity at Scale](02_complexity.md) · [Integrated](04_integrated.md) · [Software Engineering](../software_engineering/problem_solving.md) · [Data Management](../data_management/problem_solving.md) · [Project Management](../project_management/problem_solving.md)
+> **Related**: [Learning Approach](01_approach.md) · [Complexity at Scale](02_complexity.md) · [Integrated](04_integrated.md) · [Software Engineering](../software_engineering/critical_thinking.md) · [Data Management](../data_management/critical_thinking.md) · [Project Management](../project_management/critical_thinking.md)
