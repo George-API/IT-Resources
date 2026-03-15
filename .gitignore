@@ -3,3 +3,5 @@
 .lh
 *.lhignore
 .gitignore
+.notes.txt
+*.notes.txt

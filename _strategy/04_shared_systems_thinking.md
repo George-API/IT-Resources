@@ -587,4 +587,4 @@ Key failure scenarios traced through the lifecycle and across patterns.
 
 ---
 
-> **Detailed versions**: [Learning Approach](01_shared_approach.md) · [Complexity at Scale](02_shared_complexity.md) · [Critical Thinking](03_shared_critical_thinking.md) · [Software Engineering](../software_engineering/strategy/critical_thinking.md) · [Data Management](../data_management/strategy/critical_thinking.md) · [Project Management](../project_management/strategy/critical_thinking.md)
+> **Detailed versions**: [Learning Approach](01_shared_approach.md) · [Complexity at Scale](02_shared_complexity.md) · [Critical Thinking](03_shared_critical_thinking.md) · [Workplace Performance](05_shared_performance.md) · [Software Engineering](../software_engineering/strategy/critical_thinking.md) · [Data Management](../data_management/strategy/critical_thinking.md) · [Project Management](../project_management/strategy/critical_thinking.md)
