@@ -6,7 +6,7 @@
 
 ## Concepts
 
-[concepts/](concepts/) - [Critical Thinking](strategy/critical_thinking.md), [Systems Thinking](strategy/systems_thinking.md), project management, ITPM, risk management, business & financial, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
+[concepts/](concepts/) - [Critical Thinking](strategy/critical_thinking.md), [Systems Thinking](strategy/systems_thinking.md), project management, ITPM, risk management, change management, business & financial, methodologies, product management, SDLC, roadmaps, stakeholders, reporting, tools & resources
 
 ---
 
